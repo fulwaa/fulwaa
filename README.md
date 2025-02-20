@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Fulwa Asheeb</h1>
+<h1 align="center">Hi 👋, I'm Asheeb</h1>
 <h3 align="center">I'm an AI Engineer passionate about building intelligent systems and solving complex problems with machine learning and deep learning. I enjoy working on projects that push the boundaries of what AI can do.</h3>
 
 - 🌱 **I'm currently diving into computer vision,Natural Language Processing.**
